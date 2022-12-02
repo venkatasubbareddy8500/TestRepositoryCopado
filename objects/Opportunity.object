@@ -11,4 +11,13 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>kmplcopadoTest__c</fullName>
+        <externalId>false</externalId>
+        <label>kmplcopadoTest</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
 </CustomObject>
