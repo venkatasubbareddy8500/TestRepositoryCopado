@@ -4,7 +4,7 @@
         <fullName>Dev2TestCopado__c</fullName>
         <externalId>false</externalId>
         <label>Dev2TestCopado</label>
-        <length>20</length>
+        <length>50</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <trackTrending>false</trackTrending>
