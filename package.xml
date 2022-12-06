@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Opportunity.kmplcopadoTest__c</members>
+        <members>SubbareddyCopado__c.Text1Copadokmpl__c</members>
+        <members>SubbareddyCopado__c.Text2Copadokmpl__c</members>
+        <members>SubbareddyCopado__c.Text3Copadokmpl__c</members>
         <name>CustomField</name>
-    </types>
-    <types>
-        <members>Opportunity-Opportunity Layout</members>
-        <name>Layout</name>
-    </types>
-    <types>
-        <members>Admin</members>
-        <name>Profile</name>
     </types>
     <version>56.0</version>
 </Package>
