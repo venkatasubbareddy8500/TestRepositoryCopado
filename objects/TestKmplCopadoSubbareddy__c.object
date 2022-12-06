@@ -154,6 +154,18 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
+        <fullName>TestNumberCoapdo1__c</fullName>
+        <externalId>false</externalId>
+        <label>TestNumberCoapdo1</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>TextkmplCopado__c</fullName>
         <externalId>false</externalId>
         <label>TextkmplCopado</label>
