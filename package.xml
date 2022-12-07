@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>TestKmplCopadoSubbareddy__c.TestNumberCoapdo1__c</members>
+        <members>KKLTestCopado__c.KKLTestCopado1__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>KKLTestCopado__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>KKLTestCopado__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>KKLTestCopado__c-KKLTestCopado Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>KKLTestCopado__c.All</members>
+        <name>ListView</name>
     </types>
     <version>56.0</version>
 </Package>
